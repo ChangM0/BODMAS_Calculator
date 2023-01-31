@@ -17,17 +17,17 @@ namespace Calculator.CleanClass
         /// <param name="record">紀錄資訊的Object</param>
         public override void Do(ref Record record)
         {
-            record.InputUI = "0";
+            record.InputUI = record.Zero;
             record.PlusMinusNumber2 = 0;
             record.MultiplyDivisionNumber2 = 0;
-            record.DotStatus = new DotState.DotAdd();
+            record.DotStatus = record.TheDotState[0];
         }
 
         /// <summary>
         /// 不動作
         /// </summary>
         /// <param name="record">紀錄資訊的Object位址</param>
-        public override void ModifyBackground(ref Record record)
+        public override void ModifyUI(ref Record record)
         {
         }
     }

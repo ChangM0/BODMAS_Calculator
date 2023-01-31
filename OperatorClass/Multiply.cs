@@ -19,26 +19,30 @@ namespace Calculator.OperatorClass
         /// <param name="record">紀錄資訊的Object</param>
         public void Compute(ref Record record)
         {
+            // 因為 */ 每次都會運算出結果(畢竟先乘除，舉凡遇到便直接運算)
+            // 可以將結果都暫存在MultiplyDivisionNumber2
+            // 以便下次計算時直接前移使用
             record.MultiplyDivisionNumber2 = record.MultiplyDivisionNumber1 * record.MultiplyDivisionNumber2;
         }
         
         /// <summary>
         /// 乘法按鈕按下後的動作。
-        /// 更新UI，並根據目前state做對應動作
+        /// 更新UI，並進入目前state做對應動作
         /// </summary>
         /// <param name="record">紀錄資訊的Object</param>
         public override void Do(ref Record record)
         {
-            record.DotStatus = new DotAdd();
+            record.DotStatus = record.TheDotState[0];
+            record.NumberStatus = record.TheNumberState[0];
 
             record.EquationUI = $"{record.EquationUI}{record.InputUI} * ";
 
             // 強制 +- state 進入 wait
-            record.PlusMinusStatus = new WaitPlusMinus();
+            record.PlusMinusStatus = record.ThePlusMinusState[1];
 
             // Multiply & Division
             record.MultiplyDivisionstatus.OpMovement(ref record);
-            record.MultiplyDivisionstatus = new JustDoItMultiplyDivision();
+            record.MultiplyDivisionstatus = record.TheMultiplyDivisionState[1];
             
             record.PreMultiplyDivisionBtn = this;
         }
@@ -47,9 +51,9 @@ namespace Calculator.OperatorClass
         /// 清空輸入的值及對應的UI
         /// </summary>
         /// <param name="record">紀錄資訊的Object位址</param>
-        public override void ModifyBackground(ref Record record)
+        public override void ModifyUI(ref Record record)
         {
-            record.InputUI = "0";
+            record.InputUI = record.Zero;
             record.Input = 0;
         }
     }

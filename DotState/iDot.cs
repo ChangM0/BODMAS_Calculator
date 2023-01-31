@@ -12,10 +12,9 @@ namespace Calculator.DotState
     public interface IDot
     {
         /// <summary>
-        /// 每個dot的觸發function
+        /// 每個dotState的觸發function
         /// </summary>
         /// <param name="record">資訊物件</param>
-        /// <returns>更新的record</returns>
-        Record DotHandle(Record record);
+        void DotHandle(ref Record record);
     }
 }

@@ -217,106 +217,6 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <sourcecode name="DotAdd.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/10 16:24:18.349</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="DotExist.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/04 15:14:40.265</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="iDot.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/09 11:19:07.177</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="InitMultiplyDivision.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:00:10.244</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
   <sourcecode name="WaitPlusMinus.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2022/11/22 16:29:07.590</styleCop>
@@ -367,477 +267,11 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <sourcecode name="Record.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/10 17:26:33.426</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations>
-      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
-        <context>Fields must be declared with private access. Use properties to expose fields.</context>
-        <line>18</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
-        <context>Fields must be declared with private access. Use properties to expose fields.</context>
-        <line>23</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
-        <context>Fields must be declared with private access. Use properties to expose fields.</context>
-        <line>28</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
-        <context>Fields must be declared with private access. Use properties to expose fields.</context>
-        <line>33</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
-        <context>Fields must be declared with private access. Use properties to expose fields.</context>
-        <line>38</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
-        <context>Fields must be declared with private access. Use properties to expose fields.</context>
-        <line>43</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
-        <context>Fields must be declared with private access. Use properties to expose fields.</context>
-        <line>48</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
-        <context>Fields must be declared with private access. Use properties to expose fields.</context>
-        <line>53</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
-        <context>Fields must be declared with private access. Use properties to expose fields.</context>
-        <line>58</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
-        <context>Fields must be declared with private access. Use properties to expose fields.</context>
-        <line>63</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
-        <context>Fields must be declared with private access. Use properties to expose fields.</context>
-        <line>68</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
-        <context>Fields must be declared with private access. Use properties to expose fields.</context>
-        <line>73</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
-        <context>Fields must be declared with private access. Use properties to expose fields.</context>
-        <line>78</line>
-        <warning>False</warning>
-      </violation>
-    </violations>
-  </sourcecode>
-  <sourcecode name="Buttons.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:37:09.159</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="SquareRoot.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:36:21.937</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="Form1.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:36:21.940</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="Clear.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:44:53.165</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="Plus.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:47:23.042</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="Minus.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:47:23.039</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="Division.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:47:29.419</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="Multiply.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:47:35.556</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="Equal.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:46:47.686</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="SwitchNP.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:48:09.682</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="Numbers.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:48:46.117</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="CE.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:49:17.564</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="DoPlusMinus.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:45:37.480</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
   <sourcecode name="JustDoItMultiplyDivision.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2022/11/22 16:29:07.590</styleCop>
       <settingsFile>2020/10/22 14:22:10.902</settingsFile>
       <sourceFile>2023/01/11 15:17:02.012</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="BackSpace.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:49:49.351</sourceFile>
-      <parser>2022/11/22 16:29:07.590</parser>
-      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
-      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
-    </timestamps>
-    <violations />
-  </sourcecode>
-  <sourcecode name="Dot.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2022/11/22 16:29:07.590</styleCop>
-      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
-      <sourceFile>2023/01/11 15:49:01.103</sourceFile>
       <parser>2022/11/22 16:29:07.590</parser>
       <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -1671,6 +1105,667 @@
         <warning>False</warning>
       </violation>
     </violations>
+  </sourcecode>
+  <sourcecode name="Form1.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 09:15:57.206</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="DoPlusMinus.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/11 17:00:59.586</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="InitMultiplyDivision.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/11 17:47:21.864</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Buttons.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 09:10:08.773</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="DotAdd.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/11 18:02:22.389</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Dot.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 09:10:09.708</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SwitchNP.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 09:10:09.714</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Record.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 11:39:58.526</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>21</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>26</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>31</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>36</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>41</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>46</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>51</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>56</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>61</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>66</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>71</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>76</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>81</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>86</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>91</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>96</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>101</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="BackSpace.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 11:39:29.278</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CE.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 11:39:21.976</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Minus.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 14:19:36.069</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="iNumber.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 14:27:25.045</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="iDot.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 14:27:02.037</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Clear.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 14:19:24.783</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AddNumber.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 14:28:24.685</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Multiply.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 14:19:54.253</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Plus.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 14:19:40.038</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Numbers.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 14:29:03.962</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Division.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 14:29:54.544</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Equal.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 14:30:06.934</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SquareRoot.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 14:29:54.534</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="DotExist.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 14:32:50.693</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="HoldingNumber.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/11/22 16:29:07.590</styleCop>
+      <settingsFile>2020/10/22 14:22:10.902</settingsFile>
+      <sourceFile>2023/01/16 14:31:05.317</sourceFile>
+      <parser>2022/11/22 16:29:07.590</parser>
+      <StyleCop.CSharp.DocumentationRules>2022/11/22 16:29:07.590</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>962423651</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2022/11/22 16:29:07.590</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2022/11/22 16:29:07.590</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2022/11/22 16:29:07.590</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+      <StyleCopCustomRules.CMoneyRules>2022/11/22 16:29:07.590</StyleCopCustomRules.CMoneyRules>
+      <StyleCopCustomRules.CMoneyRules.FilesHashCode>0</StyleCopCustomRules.CMoneyRules.FilesHashCode>
+    </timestamps>
+    <violations />
   </sourcecode>
   <project key="-1528554004">
     <configuration>DEBUG;TRACE</configuration>

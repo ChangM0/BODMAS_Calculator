@@ -28,17 +28,18 @@ namespace Calculator.OperatorClass
         /// <param name="record">紀錄資訊的Object</param>
         public override void Do(ref Record record)
         {
-            record.DotStatus = new DotAdd();
+            record.DotStatus = record.TheDotState[0];
+            record.NumberStatus = record.TheNumberState[0];
 
             record.EquationUI = $"{record.EquationUI}{record.InputUI} - ";
 
             // Plus & Minus
             record.PlusMinusStatus.OpMovement(ref record);
-            record.PlusMinusStatus = new DoPlusMinus();
+            record.PlusMinusStatus = record.ThePlusMinusState[2];
 
             // 回復 */ 至原始狀態
-            record.MultiplyDivisionstatus = new InitMultiplyDivision();
-
+            record.MultiplyDivisionstatus = record.TheMultiplyDivisionState[0];
+            
             record.PrePlusMinusBtn = this;
         }
 
@@ -46,9 +47,9 @@ namespace Calculator.OperatorClass
         /// 清空輸入的值及對應的UI
         /// </summary>
         /// <param name="record">紀錄資訊的Object位址</param>
-        public override void ModifyBackground(ref Record record)
+        public override void ModifyUI(ref Record record)
         {
-            record.InputUI = "0";
+            record.InputUI = record.Zero;
             record.Input = 0;
         }
     }

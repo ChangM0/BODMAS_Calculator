@@ -68,6 +68,9 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="IOperator.cs" />
+    <Compile Include="NumberClass\AddNumber.cs" />
+    <Compile Include="NumberClass\HoldingNumber.cs" />
+    <Compile Include="NumberClass\iNumber.cs" />
     <Compile Include="OperatorClass\Division.cs" />
     <Compile Include="OperatorClass\Equal.cs" />
     <Compile Include="OperatorClass\Minus.cs">

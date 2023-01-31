@@ -30,20 +30,6 @@ namespace Calculator
         {
             InitializeComponent();
             ToRecord = new Record();
-            ToRecord.Total = 0;
-            ToRecord.InputUI = "0";
-            ToRecord.EquationUI = string.Empty;
-
-            ToRecord.PlusMinusNumber1 = 0;
-            ToRecord.PlusMinusNumber2 = 0;
-            ToRecord.PlusMinusStatus = new InitPlusMinus();
-            ToRecord.PrePlusMinusBtn = new Plus();
-
-            ToRecord.MultiplyDivisionNumber1 = 0;
-            ToRecord.MultiplyDivisionNumber2 = 0;
-            ToRecord.MultiplyDivisionstatus = new InitMultiplyDivision();
-
-            ToRecord.DotStatus = new DotAdd();
         }
 
         /// <summary>
@@ -64,7 +50,7 @@ namespace Calculator
             textBox2.Text = ToRecord.InputUI;
 
             // 在背景做更新
-            btnObject.ModifyBackground(ref ToRecord);
+            btnObject.ModifyUI(ref ToRecord);
         }
     }
 }

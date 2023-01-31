@@ -20,7 +20,7 @@ namespace Calculator.CleanClass
         /// <param name="record">紀錄資訊的Object</param>
         public override void Do(ref Record record)
         {
-            record.InputUI = "0";
+            record.InputUI = record.Zero;
             record.EquationUI = string.Empty;
             record.Total = 0;
             record.Input = 0;
@@ -29,9 +29,10 @@ namespace Calculator.CleanClass
             record.MultiplyDivisionNumber1 = 0;
             record.MultiplyDivisionNumber2 = 0;
 
-            record.DotStatus = new DotAdd();
-            record.MultiplyDivisionstatus = new InitMultiplyDivision();
-            record.PlusMinusStatus = new InitPlusMinus();
+            record.DotStatus = record.TheDotState[0];
+            record.NumberStatus = record.TheNumberState[0];
+            record.MultiplyDivisionstatus = record.TheMultiplyDivisionState[0];
+            record.PlusMinusStatus = record.ThePlusMinusState[0];
             record.PrePlusMinusBtn = new Plus();
         }
 
@@ -39,7 +40,7 @@ namespace Calculator.CleanClass
         /// 全部reset
         /// </summary>
         /// <param name="record">紀錄資訊的Object位址</param>
-        public override void ModifyBackground(ref Record record)
+        public override void ModifyUI(ref Record record)
         {
         }
     }

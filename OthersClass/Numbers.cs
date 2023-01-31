@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Calculator.NumberClass;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -31,15 +32,16 @@ namespace Calculator.OthersClass
         /// <param name="record">紀錄資訊的Object</param>
         public override void Do(ref Record record)
         {
-            record.Input = Convert.ToDecimal($"{record.InputUI}{MyNumber}");
-            record.InputUI = record.Input.ToString();
+            record.NumberStatus.NumberHandle(ref record, MyNumber);
+            //record.Input = Convert.ToDecimal($"{record.InputUI}{MyNumber}");
+            //record.InputUI = record.Input.ToString();
         }
 
         /// <summary>
         /// 不動作
         /// </summary>
         /// <param name="record">紀錄資訊的Object位址</param>
-        public override void ModifyBackground(ref Record record)
+        public override void ModifyUI(ref Record record)
         {
         }
     }

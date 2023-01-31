@@ -25,7 +25,7 @@ namespace Calculator.OthersClass
         /// 不動作
         /// </summary>
         /// <param name="record">紀錄資訊的Object位址</param>
-        public override void ModifyBackground(ref Record record)
+        public override void ModifyUI(ref Record record)
         {
         }
     }

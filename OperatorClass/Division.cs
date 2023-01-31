@@ -1,10 +1,12 @@
 ﻿using Calculator.BODMASState;
+using Calculator.CleanClass;
 using Calculator.DotState;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Calculator.OperatorClass
 {
@@ -25,8 +27,8 @@ namespace Calculator.OperatorClass
             }
             catch
             {
-                //record.EquationUI = record.EquationUI.Substring(0, record.EquationUI.Length - 2);
-                Console.WriteLine("不能除以0");
+                MessageBox.Show("不能除以0");
+                record.ClearAction(ref record);
             }
         }
 
@@ -36,17 +38,18 @@ namespace Calculator.OperatorClass
         /// <param name="record">紀錄資訊的Object</param>
         public override void Do(ref Record record)
         {
-            record.DotStatus = new DotAdd();
+            record.DotStatus = record.TheDotState[0];
+            record.NumberStatus = record.TheNumberState[0];
 
             record.EquationUI = $"{record.EquationUI}{record.InputUI} / ";
-           
+
             // 強制 +- state 進入 wait
-            record.PlusMinusStatus = new WaitPlusMinus();
+            record.PlusMinusStatus = record.ThePlusMinusState[1];
 
             // Multiply & Division
             record.MultiplyDivisionstatus.OpMovement(ref record);
-            record.MultiplyDivisionstatus = new JustDoItMultiplyDivision();
-            
+            record.MultiplyDivisionstatus = record.TheMultiplyDivisionState[1];
+
             record.PreMultiplyDivisionBtn = this;
         }
 
@@ -54,9 +57,9 @@ namespace Calculator.OperatorClass
         /// 清空輸入的值及對應的UI
         /// </summary>
         /// <param name="record">紀錄資訊的Object位址</param>
-        public override void ModifyBackground(ref Record record)
+        public override void ModifyUI(ref Record record)
         {
-            record.InputUI = "0";
+            record.InputUI = record.Zero;
             record.Input = 0;
         }
     }

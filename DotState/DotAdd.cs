@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Calculator.DotState
 {
     /// <summary>
-    /// Change the Dot state into CAN ADD
+    /// Dot state : CAN ADD
     /// </summary>
     public class DotAdd : IDot
     {
@@ -15,12 +15,10 @@ namespace Calculator.DotState
         /// 新增小數點
         /// </summary>
         /// <param name="record">資料物件</param>
-        /// <returns>修改後的資料物件</returns>
-        public Record DotHandle(Record record)
+        public void DotHandle(ref Record record)
         {
             record.InputUI = string.Concat(record.InputUI, ".");
-            record.DotStatus = new DotExist();
-            return record;
+            record.DotStatus = record.TheDotState[1];
         }
     }
 }

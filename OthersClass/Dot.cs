@@ -12,19 +12,19 @@ namespace Calculator.OthersClass
     public class Dot : Buttons
     {
         /// <summary>
-        /// 新增小數點到字串，如果不能轉成decimal，表示裏頭已含有.，所以抓到錯的話，把剛剛新增的.給刪除
+        /// .
         /// </summary>
         /// <param name="record">紀錄資訊的Object</param>
         public override void Do(ref Record record)
         {     
-            record.DotStatus.DotHandle(record);
+            record.DotStatus.DotHandle(ref record);
         }
 
         /// <summary>
         /// 不動作
         /// </summary>
         /// <param name="record">紀錄資訊的Object位址</param>
-        public override void ModifyBackground(ref Record record)
+        public override void ModifyUI(ref Record record)
         {
         }
     }

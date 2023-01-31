@@ -21,6 +21,6 @@ namespace Calculator
         /// 在背景做更新，不會呈現在此次的UI上
         /// </summary>
         /// <param name="record">用以紀錄資訊的物件</param>
-        public abstract void ModifyBackground(ref Record record);
+        public abstract void ModifyUI(ref Record record);
     }
 }

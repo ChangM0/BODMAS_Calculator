@@ -32,10 +32,9 @@ namespace Calculator.OperatorClass
         /// 呼叫clear，做清除
         /// </summary>
         /// <param name="record">紀錄資訊的Object位址</param>
-        public override void ModifyBackground(ref Record record)
+        public override void ModifyUI(ref Record record)
         {
-            Buttons clear = new Clear();
-            clear.Do(ref record);
+            record.ClearAction(ref record);
         }
     }
 }
